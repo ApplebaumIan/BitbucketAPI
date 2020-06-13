@@ -10,6 +10,6 @@ final class BitbucketAPITests: XCTestCase {
     }
 
     static var allTests = [
-        ("testExample", testExample),
+        ("testExample", testExample)
     ]
 }
